@@ -1,0 +1,34 @@
+_repo: DickensEnglish-Men-of-Letters_36714
+_version: 0.1.0
+alternative_title: Charles Dickens
+covers:
+- cover_type: archival
+  image_path: 36714-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ward, Adolphus William, Sir
+    alias: Ward, A. W., Sir
+    birthdate: 1837
+    deathdate: 1924
+    gutenberg_agent_id: '1242'
+    url: http://www.gutenberg.org/2009/agents/1242
+    wikipedia: http://en.wikipedia.org/wiki/Adolphus_William_Ward
+description: Charles Dickens (1812-1870) created some of England's most enduring works
+  of fiction. Ward's 1882 entry into the influential English Men of Letters" series
+  of literary biographies probes Dickens' life and work before and after The Pickwick
+  Papers , his travel writings, David Copperfield , and beyond.
+gutenberg_issued: '2011-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: English Men of Letters
+subjects:
+- !lcsh 'Dickens, Charles, 1812-1870'
+- !lcc 'PR'
+- !lcsh 'Novelists, English -- 19th century -- Biography'
+title: Dickens
+url: http://www.gutenberg.org/ebooks/36714
