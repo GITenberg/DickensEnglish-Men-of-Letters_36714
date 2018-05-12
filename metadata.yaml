@@ -17,6 +17,8 @@ description: Charles Dickens (1812-1870) created some of England's most enduring
   of fiction. Ward's 1882 entry into the influential English Men of Letters" series
   of literary biographies probes Dickens' life and work before and after The Pickwick
   Papers , his travel writings, David Copperfield , and beyond.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36714#DickensEnglish-Men-of-Letters
 gutenberg_issued: '2011-07-12'
 gutenberg_type: Text
 identifiers:
